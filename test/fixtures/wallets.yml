@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  walletable_type: MyString
+  walletable_id: 
+  balance: 9.99
+
+two:
+  walletable_type: MyString
+  walletable_id: 
+  balance: 9.99

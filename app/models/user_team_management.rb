@@ -1,0 +1,2 @@
+class UserTeamManagement < ApplicationRecord
+end
